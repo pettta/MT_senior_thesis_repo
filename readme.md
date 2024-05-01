@@ -15,3 +15,6 @@ PheMT: https://github.com/cl-tohoku/PheMT
 
 KFTT: https://www.phontron.com/kftt/ 
 
+
+## Background Slides / Papers Read 
+https://docs.google.com/presentation/d/1dzFY7PQtw07PQ86E7ofFWFgQnhuelQ9h-WTT8J-Bk98/edit?usp=sharing 
